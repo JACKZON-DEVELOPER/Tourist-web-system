@@ -1,21 +1,20 @@
 <h3 align="center">
-  <img src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/app/src/main/res/drawable-xxxhdpi/logo.png" alt="CAID Logo" width="200">
-  <br/>
-  <img src="https://github.com/JACKZON-DEVELOPER/Aplication-CAID/blob/master/app/src/main/res/drawable-xxxhdpi/title_caid.png" alt="CAID Logo" width="300">  
+  <img src="" alt="CAID Tourist web" width="200">
 </h3>
 
-# Aplicación CAID
+# Aplicación Tourist web
 
 <hr/>
 
 ### Descripción 
 
-Este proyecto es sobre una aplicación Móvil, en la aplicación se encuentran cursos en línea con fin educativo, de esta manera se pueden tomar clases en línea tratando de simular todos los ámbitos de una clase normal con chat para preguntas y respuestas entre profesor y alumnos, video conferencia, sección para poder tomar apuntes, sección de tareas, entre otras funciones.
+Es una aplicación web que funciona cono una red social para ámbito turístico, con este sitio web los negocios turísticos pueden registrarse y publicitar sus negocios. La web está dividida en categorías como restaurante, viajes, hoteles, zonas turísticas y otras más del ámbito turístico
+
 <hr/>
 
 ### Creación 
 
-La aplicación esta creada en Java utilizando Android Studio junto con Firebase para la gestión de la base de datos 
+La aplicación web esta creada en PHP usando el Framework Yii2 y el Framework de Bootstrap para la parte de Frontend y el Backend, se utilizo el patrón de diseño MVC junto a gestor de base de datos MySQL.
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"> 
@@ -53,11 +52,17 @@ La aplicación esta creada en Java utilizando Android Studio junto con Firebase 
   - Promedio- calcula el promedio de con base a las calificaciones y los exámenes.
   - Graficas- muestra los datos de las calificaciones de los alumnos a los profesores.
 
+
+### Control de usuarios 
+
+El control de usuarios funciona por medio de roles, para llevar un control de las secciones a las que el usuario no tiene acceso ya que algunas secciones solo podrán usarlas usuarios premium
+
+
 <hr/>
 
 ### Objetivo para el proyecto
 
-Se cambiará del lenguaje en el que esta creado se pasará de Java a Kotlin y migrar a nueva versión de SDK, se mejorará el sistema de video conferencia, chat y de subida de archivos, se agregará una función de sincronía para llevar este proyecto a la web.
+Se tiene pensado migrar de Framework de Yii2 a Laravel y se quiere cambiar el estilo del Frontend a una vista más agradable.
 
 <hr/>
 
