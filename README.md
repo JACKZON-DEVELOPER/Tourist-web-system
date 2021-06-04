@@ -23,19 +23,8 @@ La aplicación web esta creada en PHP usando el Framework Yii2 y el Framework de
 </div>
 
 <hr/>
-
-
   
   <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Tourist-web-system/blob/master/Screenshot%202021-06-03%20at%2017-15-53%20My%20Yii%20Application.png" alt="Pantalla Sietema WEb" width="400">
- 
-
-  
-  <br/>
-  
-
-  
-  <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Tourist-web-system/blob/master/Screenshot%202021-06-03%20at%2017-03-24%20El%20Cuyo.png" alt="Pantalla de la Web" width="400">
-
 
 ### FUNCIONES DE LA APLICACIÓN
 
@@ -61,6 +50,8 @@ La aplicación web esta creada en PHP usando el Framework Yii2 y el Framework de
   - Promedio- calcula el promedio de con base a las calificaciones y los exámenes.
   - Graficas- muestra los datos de las calificaciones de los alumnos a los profesores.
 
+
+ <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Tourist-web-system/blob/master/Screenshot%202021-06-03%20at%2017-15-53%20My%20Yii%20Application.png" alt="Pantalla Sietema WEb" width="400">
 
 ### Control de usuarios 
 
