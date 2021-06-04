@@ -53,6 +53,7 @@ La aplicación web esta creada en PHP usando el Framework Yii2 y el Framework de
 
  <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Tourist-web-system/blob/master/Screenshot%202021-06-03%20at%2017-15-53%20My%20Yii%20Application.png" alt="Pantalla Sietema WEb" width="400">
 
+
 ### Control de usuarios 
 
 El control de usuarios funciona por medio de roles, para llevar un control de las secciones a las que el usuario no tiene acceso ya que algunas secciones solo podrán usarlas usuarios premium
