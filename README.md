@@ -29,6 +29,8 @@ La aplicación web esta creada en PHP usando el Framework Yii2 y el Framework de
  
 </div>
   
+  <br/>
+  
 <div>
   
   <img  align='right' src="https://github.com/JACKZON-DEVELOPER/Tourist-web-system/blob/master/Screenshot%202021-06-03%20at%2017-03-24%20El%20Cuyo.png" alt="Pantalla de la Web" width="400">
