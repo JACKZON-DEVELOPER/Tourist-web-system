@@ -3,6 +3,8 @@
 /yii_test
 /yii_test.bat
 
+/vagrant
+
 # phpstorm project files
 .idea
 
