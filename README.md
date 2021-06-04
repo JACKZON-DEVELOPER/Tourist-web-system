@@ -2,6 +2,10 @@
   <img src="" alt="CAID Tourist web" width="200">
 </h3>
 
+"require": {
+  "yiisoft/yii2": "2.0.38"
+}
+
 # Aplicación Tourist web
 
 <hr/>
